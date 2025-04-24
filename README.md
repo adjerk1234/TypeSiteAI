@@ -1,12 +1,12 @@
-##TypeSite AI
+TypeSite AI
 
 TypeSite AI is a web application that enables registered users to build and organize multiple websites by interacting with a Large Language Model (LLM) in natural language, in real time. Users can create, edit, and manage website sections and templates, all while previewing their changes live.
 
-##Overview
+Overview
 
 TypeSite AI leverages the Node.js, Express, and MongoDB stack to provide a robust backend, while using EJS for templating and Bootstrap for responsive design. The application is designed to be user-friendly, making it accessible even to users with a non-technical background.
 
-##Technologies Used:
+Technologies Used:
 
 Node.js: JavaScript runtime for building the application.
 
